@@ -1,4 +1,4 @@
-# DiPCell: Discovery of Promiscuous Inhibitors for Pancreatic Cell lines
+# DiPCell: Designing of promiscuous inhibitors against pancreatic cancer cell lines
 
 **DiPCell** is a specialized computational platform designed to accelerate the drug discovery process for pancreatic cancer, one of the most devastating diseases with a very poor prognosis. Unlike tools focused on peptides,
 this specific iteration of DiPCell is a web-bench for predicting and screening **promiscuous inhibitors**—small molecules capable of targeting multiple oncogenic pathways—to improve therapeutic outcomes in pancreatic cancer.
