@@ -10,7 +10,7 @@ this specific iteration of DiPCell is a web-bench for predicting and screening *
 Kumar, R., Chaudhary, K., Singla, D. et al. Designing of promiscuous inhibitors against pancreatic cancer cell lines.
 Sci Rep 4, 4668 (2014). https://doi.org/10.1038/srep04668
 
-This dataset can also be found on Zenodo at
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20094719
 
 
 ## About the Research
