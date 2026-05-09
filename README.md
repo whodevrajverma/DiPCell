@@ -73,6 +73,8 @@ compounds against various pancreatic cancer cell lines.
 
 **Prof. Gajendra P. S. Raghava** (Corresponding Author)
 
+raghava@iiitd.ac.in
+
 Department of Computational Biology, Indraprastha Institute of Information Technology (IIIT Delhi), New Delhi, India.
 
 
